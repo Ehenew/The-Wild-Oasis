@@ -8,9 +8,6 @@ import Row from "../ui/Row";
 
 
 
-
-
-
 function Settings() {
   return (
     <Row>
